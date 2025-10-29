@@ -15,6 +15,8 @@
 - a. javac -d ../classes listeners/*
 - b. javac -d ../classes controllers/*
 - c. javac -d ../classes models/*
+- d. javac -d ../classes elfuncs/*
+- e. javac -d ../classes utils/*
 ```
 
 ```7. Copy the lb.sql file and paste it in mysql command line client.```
